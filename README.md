@@ -1,6 +1,6 @@
 # EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
-## DATE:01.12.24
+## DATE:
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -64,16 +64,16 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 #### LINKAGE
-![Screenshot 2024-12-01 214812](https://github.com/user-attachments/assets/6b17ed95-aece-4cf9-ad2a-ebc199196aee)
+![Screenshot 2024-12-25 140438](https://github.com/user-attachments/assets/d071d131-4dd4-485c-a0a8-d17a6002ec26)
 
 #### BASE PLATE
-![Screenshot 2024-12-01 234601](https://github.com/user-attachments/assets/a475d996-548a-4ab6-9cfc-8c1328e505f0)
+![Screenshot 2024-12-25 133654](https://github.com/user-attachments/assets/6cd4365e-4e02-46eb-b777-ba9760dbe892)
 
 #### GEAR LINKAGE
-![Screenshot 2024-12-01 220321](https://github.com/user-attachments/assets/5a088765-6e0c-4f65-a2b9-dd52431119fb)
+![Screenshot 2024-12-25 140639](https://github.com/user-attachments/assets/f67f7e79-0d9e-4cea-a9f3-3d25a47149e0)
 
 #### FINGER
-![Screenshot 2024-12-01 220738](https://github.com/user-attachments/assets/461560df-4d65-4af4-991b-c2417988503e)
+![Screenshot 2024-12-25 140910](https://github.com/user-attachments/assets/1bfa97ae-7f1c-462f-9235-d460fa01850f)
 
 #### ASSEMBLED VIEW
 ![Screenshot 2024-12-01 205816](https://github.com/user-attachments/assets/7566fa01-41ac-47c3-ab06-6e93d32f041b)
